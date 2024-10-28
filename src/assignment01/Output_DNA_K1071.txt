@@ -1,0 +1,18 @@
+17
+>Cabomba_caroliniana_KT705317 -0.00 Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Brasenia_schreberi_NC_031343 Infinity -0.00 Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Nuphar_advena_NC_008788 Infinity Infinity -0.00 Infinity Infinity Infinity -0.00 Infinity Infinity Infinity 3.22 Infinity 3.22 Infinity Infinity Infinity Infinity 
+>Trithuria_inconspicua_NC_020372 Infinity Infinity Infinity -0.00 Infinity Infinity Infinity Infinity Infinity 2.72 Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Barclaya_kunstleri_KY392762 Infinity Infinity Infinity Infinity -0.00 Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Barclaya_longifolia_KY284156 Infinity Infinity Infinity Infinity Infinity -0.00 Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Nuphar_longifolia_MH050795 Infinity Infinity -0.00 Infinity Infinity Infinity -0.00 Infinity Infinity Infinity 3.22 Infinity 3.22 Infinity Infinity Infinity Infinity 
+>Nymphaea_alba_KU234277 Infinity Infinity Infinity Infinity Infinity Infinity Infinity -0.00 4.55 Infinity Infinity 4.55 Infinity Infinity Infinity -0.00 Infinity 
+>Victoria_cruziana_KY001813 Infinity Infinity Infinity Infinity Infinity Infinity Infinity 4.55 -0.00 Infinity Infinity 2.82 Infinity Infinity Infinity 4.55 Infinity 
+>Trithuria_filamentosa_KF696682 Infinity Infinity Infinity 2.72 Infinity Infinity Infinity Infinity Infinity -0.00 Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Nuphar_shimadae_MH050797 Infinity Infinity 3.22 Infinity Infinity Infinity 3.22 Infinity Infinity Infinity -0.00 Infinity -0.00 Infinity Infinity Infinity Infinity 
+>Euryale_ferox_KY392765 Infinity Infinity Infinity Infinity Infinity Infinity Infinity 4.55 2.82 Infinity Infinity -0.00 Infinity Infinity Infinity 4.55 Infinity 
+>Nuphar_pumila_MH050796 Infinity Infinity 3.22 Infinity Infinity Infinity 3.22 Infinity Infinity Infinity -0.00 Infinity -0.00 Infinity Infinity Infinity Infinity 
+>Nymphaea_ampla_KU189255 Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity -0.00 Infinity Infinity Infinity 
+>Nymphaea_mexicana_NC_024542 Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity -0.00 Infinity Infinity 
+>Nymphaea_alba_NC_006050 Infinity Infinity Infinity Infinity Infinity Infinity Infinity -0.00 4.55 Infinity Infinity 4.55 Infinity Infinity Infinity -0.00 Infinity 
+>Nymphaea_jamesoniana_NC_031826 Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity Infinity -0.00 

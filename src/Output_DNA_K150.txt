@@ -1,0 +1,18 @@
+17
+>Cabomba_caroliniana_KT705317 -0.00 3.87 6.77 Infinity Infinity Infinity 6.77 8.72 6.77 Infinity 6.77 Infinity 6.77 6.77 6.77 8.72 6.77 
+>Brasenia_schreberi_NC_031343 3.87 -0.00 5.38 Infinity Infinity 4.58 5.38 5.50 5.10 Infinity 4.86 Infinity 4.86 5.10 4.82 5.50 Infinity 
+>Nuphar_advena_NC_008788 6.77 5.38 -0.00 Infinity 2.35 3.25 -0.00 2.66 2.67 Infinity 0.50 2.99 0.50 2.85 3.07 2.66 2.69 
+>Trithuria_inconspicua_NC_020372 Infinity Infinity Infinity -0.00 Infinity Infinity Infinity Infinity Infinity 0.43 Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Barclaya_kunstleri_KY392762 Infinity Infinity 2.35 Infinity -0.00 2.53 2.35 2.81 3.27 Infinity 1.96 3.04 1.96 2.97 3.17 2.81 3.02 
+>Barclaya_longifolia_KY284156 Infinity 4.58 3.25 Infinity 2.53 -0.00 3.25 3.15 3.38 Infinity 2.93 3.45 2.93 3.69 3.35 3.15 3.46 
+>Nuphar_longifolia_MH050795 6.77 5.38 -0.00 Infinity 2.35 3.25 -0.00 2.66 2.67 Infinity 0.50 2.99 0.50 2.85 3.07 2.66 2.69 
+>Nymphaea_alba_KU234277 8.72 5.50 2.66 Infinity 2.81 3.15 2.66 -0.00 0.75 Infinity 2.30 0.93 2.30 1.40 0.89 -0.00 1.04 
+>Victoria_cruziana_KY001813 6.77 5.10 2.67 Infinity 3.27 3.38 2.67 0.75 -0.00 Infinity 2.56 0.84 2.56 1.26 1.19 0.75 1.07 
+>Trithuria_filamentosa_KF696682 Infinity Infinity Infinity 0.43 Infinity Infinity Infinity Infinity Infinity -0.00 Infinity Infinity Infinity Infinity Infinity Infinity Infinity 
+>Nuphar_shimadae_MH050797 6.77 4.86 0.50 Infinity 1.96 2.93 0.50 2.30 2.56 Infinity -0.00 2.66 -0.00 2.53 2.57 2.30 2.49 
+>Euryale_ferox_KY392765 Infinity Infinity 2.99 Infinity 3.04 3.45 2.99 0.93 0.84 Infinity 2.66 -0.00 2.66 1.63 1.59 0.93 1.19 
+>Nuphar_pumila_MH050796 6.77 4.86 0.50 Infinity 1.96 2.93 0.50 2.30 2.56 Infinity -0.00 2.66 -0.00 2.53 2.57 2.30 2.49 
+>Nymphaea_ampla_KU189255 6.77 5.10 2.85 Infinity 2.97 3.69 2.85 1.40 1.26 Infinity 2.53 1.63 2.53 -0.00 1.57 1.40 1.59 
+>Nymphaea_mexicana_NC_024542 6.77 4.82 3.07 Infinity 3.17 3.35 3.07 0.89 1.19 Infinity 2.57 1.59 2.57 1.57 -0.00 0.89 1.54 
+>Nymphaea_alba_NC_006050 8.72 5.50 2.66 Infinity 2.81 3.15 2.66 -0.00 0.75 Infinity 2.30 0.93 2.30 1.40 0.89 -0.00 1.04 
+>Nymphaea_jamesoniana_NC_031826 6.77 Infinity 2.69 Infinity 3.02 3.46 2.69 1.04 1.07 Infinity 2.49 1.19 2.49 1.59 1.54 1.04 -0.00 
